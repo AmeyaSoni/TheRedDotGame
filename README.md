@@ -84,6 +84,16 @@ red-dot-game/
 - 🧠 Game flowchart with player journey
 
 ---
+## 🌐 Explore the Live Portfolio
+
+Want to dive deeper into the world of The Red Dot Game?  
+Visit the official portfolio site to explore gameplay concepts, team bios, research, and behind-the-scenes artefacts:
+
+🔗 **[ameyasoni3009.wixsite.com/thereddotgame](https://ameyasoni3009.wixsite.com/thereddotgame)**
+
+> Includes interactive visuals, UI mockups, rank system breakdowns, and our full development report.
+
+---
 
 ## 🧠 Research References
 
